@@ -1,5 +1,5 @@
 #include<iostream>
-#define MAXQUEUE 5
+#define MAXQUEUE 4
 using namespace std;
 
 /* queue implementation */
